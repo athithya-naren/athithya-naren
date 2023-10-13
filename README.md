@@ -13,6 +13,8 @@ just learning
 <a href="https://www.github.com/athithya-naren" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/athithya-naren?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=athithya-naren&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 ### Skills
 
 
